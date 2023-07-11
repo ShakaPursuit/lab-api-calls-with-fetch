@@ -58,7 +58,9 @@ button:hover {
   background: #5c946e;
 }
 
-.card {
+.card1,.card2,.card3,.card4,
+.card5,.card6,.card7,.card8,
+.card9,.card10 {
   border: 3px solid #4f7d5d;
   padding: 25px;
 }
